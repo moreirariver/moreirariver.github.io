@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://moreirariver.github.io/sitemap.xml
